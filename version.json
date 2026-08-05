@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1-prueba",
+  "versionCode": 1,
+  "versionName": "1.0",
   "url": "https://github.com/ByRafaelSystem/premiumidpro/releases/latest/download/PremiumIDPro.apk",
-  "notes": "• Versión de PRUEBA para verificar el actualizador\n• Si ves esto, el updater funciona"
+  "notes": "• Sesiones guardadas por plataforma\n• Extractor de ID (shortxlinks y pastemyst)\n• Enviar el ID del teléfono a la TV por WiFi\n• Navegación con control remoto\n• Canal oficial: t.me/cuentaspremiumid"
 }

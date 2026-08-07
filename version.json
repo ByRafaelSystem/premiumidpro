@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
+  "versionCode": 2,
+  "versionName": "2.0",
   "url": "https://github.com/ByRafaelSystem/premiumidpro/releases/latest/download/PremiumIDPro.apk",
-  "notes": "• Sesiones guardadas por plataforma\n• Extractor de ID (shortxlinks y pastemyst)\n• Enviar el ID del teléfono a la TV por WiFi\n• Navegación con control remoto\n• Canal oficial: t.me/cuentaspremiumid"
+  "notes": "• Soporte y optimización para TV\n• Navegación con control remoto: fila por fila, respeta la columna\n• Control completo del reproductor: barra de progreso y omitir intro\n• ATRÁS vuelve un paso, no al principio\n• Mucho más liviana en la TV box\n• Puntero de rescate: mantené OK apretado\n• Canal oficial: t.me/cuentaspremiumid"
 }

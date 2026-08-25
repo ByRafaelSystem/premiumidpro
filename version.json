@@ -1,0 +1,6 @@
+{
+  "versionCode": 4,
+  "versionName": "3.1",
+  "url": "https://github.com/ByRafaelSystem/premiumidpro/releases/latest/download/PremiumIDPro.apk",
+  "notes": "• Extractor de ID arreglado: el acortador cambió y se quedaba clavado\n• Ahora aguanta los cambios de dominio del acortador\n• Va al ritmo normal de la página, sin saltarse la espera\n• Canal oficial: t.me/cuentaspremiumid"
+}
